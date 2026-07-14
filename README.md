@@ -30,7 +30,7 @@ While I enjoyed building products as a frontend developer, I found myself increa
 
 That curiosity led me to study Data Science in Vancouver and begin my transition toward Business Analysis.
 
-Today, my goal is to combine **frontend development experience**, **data analysis**, and **business thinking** to help teams make better decisions.
+Today, my goal is to combine frontend development experience, data analysis, and business thinking to help teams make better product and business decisions.
 
 ---
 
@@ -120,7 +120,7 @@ Topics include:
 Worked as a Frontend Developer on multiple production web applications, including
 
 • Internal administration systems
-• Customer-facing widget solutions
+• Customer-facing web components
 • Back-office management platforms
 
 with a focus on
@@ -133,25 +133,13 @@ with a focus on
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BookiChoi&theme=github-dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=BookiChoi&hide_border=true&theme=dark)
-
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=BookiChoi&layout=compact&hide_border=true&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app)
-
-</div>
-
----
-
-## 📈 GitHub Metrics
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img src="./github-metrics.svg" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=BookiChoi&hide_border=true&theme=dark)
 
 </div>
 
