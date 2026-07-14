@@ -151,7 +151,7 @@ with a focus on
 
 <div align="center">
 
-![Metrics](./github-metrics.svg)
+<img src="./github-metrics.svg" />
 
 </div>
 
