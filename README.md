@@ -147,6 +147,16 @@ with a focus on
 
 ---
 
+## 📈 GitHub Metrics
+
+<div align="center">
+
+![Metrics](./github-metrics.svg)
+
+</div>
+
+---
+
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://linkedin.com/in/bookichoi
