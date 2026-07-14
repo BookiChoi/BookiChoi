@@ -137,11 +137,11 @@ with a focus on
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=BookiChoi&show_icons=true&hide_border=true&count_private=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
-
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=BookiChoi&layout=compact&hide_border=true&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BookiChoi&theme=github-dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BookiChoi&hide_border=true&theme=dark)
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=BookiChoi&layout=compact&hide_border=true&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app)
 
 </div>
 
