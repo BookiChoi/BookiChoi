@@ -130,11 +130,11 @@ with a focus on architecture, performance optimization, and developer experience
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BookiChoi&show_icons=true&hide_border=true&count_private=true)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=BookiChoi&show_icons=true&hide_border=true&count_private=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BookiChoi&layout=compact&hide_border=true&langs_count=8)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=BookiChoi&layout=compact&hide_border=true&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=BookiChoi)
+![GitHub Streak](https://streak-stats.demolab.com/?user=BookiChoi&hide_border=true&theme=dark)
 
 </div>
 
