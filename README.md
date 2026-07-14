@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Booki Choi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Future+Business+Analyst;Data+Driven+Product+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Business+Analyst+in+Transition;Former+Frontend+Developer;Turning+Data+into+Insights" />
 
-Building better products through engineering, business thinking, and data.
+From frontend development to business analysis, driven by data.
 
 🇨🇦 Currently studying Data Science in Vancouver, Canada
 
@@ -24,11 +24,13 @@ I spent nearly **three years building production web applications** as a Fronten
 
 Working at a startup taught me that successful products are built not only with clean code, but also with a deep understanding of **users, business goals, and product decisions**.
 
-As AI rapidly changed the software industry, I realized I wanted to move closer to solving business problems rather than focusing solely on implementation.
+As AI continued to reshape software development, I began thinking more seriously about the kind of problems I wanted to solve.
 
-That led me to study **Data Science in Vancouver** and begin my journey toward becoming a **Business Analyst**.
+While I enjoyed building products as a frontend developer, I found myself increasingly interested in user behavior, business goals, and data-driven decision making.
 
-Today, my goal is to combine **software engineering**, **data analysis**, and **business thinking** to help teams make better decisions.
+That curiosity led me to study Data Science in Vancouver and begin my transition toward Business Analysis.
+
+Today, my goal is to combine **frontend development experience**, **data analysis**, and **business thinking** to help teams make better decisions.
 
 ---
 
@@ -39,7 +41,7 @@ Today, my goal is to combine **software engineering**, **data analysis**, and **
 - 🗄 SQL
 - 📈 Tableau
 - 📚 Statistics
-- 💼 Business Analysis
+- 💼 Business Analytics
 - 🤖 AI-assisted Productivity
 
 ---
@@ -83,9 +85,9 @@ Today, my goal is to combine **software engineering**, **data analysis**, and **
 
 ### 🌟 Talearnt
 
-A full-stack talent exchange platform built with modern React technologies.
+Built and maintained the frontend of a production talent exchange platform using modern React technologies.
 
-Developed production-level frontend architecture with a focus on scalability, performance, and user experience.
+Owned frontend development from architecture to implementation, contributed to product planning, proposed UI/UX improvements, and optimized performance for production services.
 
 **Tech**
 
@@ -115,14 +117,19 @@ Topics include:
 
 ## 💼 Professional Experience
 
-Worked on production services including
+Worked as a Frontend Developer on multiple production web applications, including
 
-- Admin Platform
-- Widget Platform
-- Injector
-- Backoffice
+• Internal administration systems
+• Customer-facing widget solutions
+• Back-office management platforms
 
-with a focus on architecture, performance optimization, and developer experience.
+with a focus on
+
+• Frontend architecture
+• Performance optimization
+• API integration
+• Developer experience
+• Cross-functional collaboration
 
 ---
 
@@ -143,8 +150,8 @@ with a focus on architecture, performance optimization, and developer experience
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://linkedin.com/in/bookichoi
-- 📊 BA Portfolio Repository: https://github.com/BookiChoi/BA-Portfolio
-- 💻 Talearnt Project: https://github.com/Talearnt/Front-Talearnt
+- 📊 Business Analyst Portfolio: https://github.com/BookiChoi/BA-Portfolio
+- 💻 Talearnt: https://github.com/Talearnt/Front-Talearnt
 - 📧 Email: bookichoi98@gmail.com
 
 ---
