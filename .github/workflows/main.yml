@@ -62,8 +62,6 @@ jobs:
 
           plugin_repositories_pinned: 4
 
-          repositories_affiliations: owner,collaborator,organization_member
-
 
           # =========================
           # Topics
