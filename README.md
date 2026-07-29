@@ -11,7 +11,7 @@ From frontend development to business analysis, driven by data.
 ![Profile Views](https://komarev.com/ghpvc/?username=BookiChoi)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Booki_Choi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bookichoi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-24292F?style=for-the-badge&logo=github)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-24292F?style=for-the-badge&logo=github&logoColor=white)](https://bookichoi.github.io/)
 [![Email](https://img.shields.io/badge/Email-bookichoi98@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bookichoi98@gmail.com)
 
 </div>
