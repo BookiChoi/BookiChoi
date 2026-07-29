@@ -20,7 +20,7 @@ From frontend development to business analysis, driven by data.
 
 ## 👨‍💻 About Me
 
-I spent nearly **three years building production web applications** as a Frontend Developer.
+I spent **3.5 years building production web applications** as a Frontend Developer.
 
 Working at a startup taught me that successful products are built not only with clean code, but also with a deep understanding of **users, business goals, and product decisions**.
 
@@ -51,7 +51,6 @@ Today, my goal is to combine frontend development experience, data analysis, and
 ### 📊 Data & Database
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
@@ -61,7 +60,6 @@ Today, my goal is to combine frontend development experience, data analysis, and
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
@@ -91,7 +89,7 @@ Owned frontend development from architecture to implementation, contributed to p
 
 **Tech**
 
-React • TypeScript • TanStack Query • Zustand • WebSocket • AWS • GitHub Actions
+React • TypeScript • Vite • Zustand • TanStack Query • Tailwind CSS • WebSocket • AWS (S3/CloudFront) • Bun • GitHub Actions
 
 🔗 Repository: https://github.com/Talearnt/Front-Talearnt
 
